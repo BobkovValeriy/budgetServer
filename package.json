@@ -1,5 +1,5 @@
 {
-  "name": "sociatiesserver",
+  "name": "budgetDBserver",
   "version": "1.0.0",
   "description": "this is server for game sociaties",
   "main": "index.js",
