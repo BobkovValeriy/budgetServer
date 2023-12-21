@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon budgetDBserver.js",
+    "dev": "budgetDBserver.js",
     "start": "npm-run-all --parallel start-server start-client",
-    "start-server": "nodemon budgetDBserver.js",
+    "start-server": "budgetDBserver.js",
     "start-client": "cd C:/Users/Professional/Desktop/Учёба/projects/React/budget && npm start"
   },
   "keywords": [
